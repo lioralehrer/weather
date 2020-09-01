@@ -1,0 +1,27 @@
+
+https://api.darksky.net/forecast/557ecd4b8c8bbba02f4a50afe884934b/32.085300,34.781769
+
+
+{
+latitude: 32.0853,
+longitude: 34.781769,
+timezone: "Asia/Jerusalem",
+currently: {
+time: 1598942785,
+summary: "Humid",
+icon: "clear-day",
+precipIntensity: 0,
+precipProbability: 0,
+temperature: 84.41,
+apparentTemperature: 94.39,
+dewPoint: 76.84,
+humidity: 0.78,
+pressure: 1006.3,
+windSpeed: 8.29,
+windGust: 9.26,
+windBearing: 184,
+cloudCover: 0.02,
+uvIndex: 5,
+visibility: 10,
+ozone: 274
+},
