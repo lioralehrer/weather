@@ -25,3 +25,9 @@ uvIndex: 5,
 visibility: 10,
 ozone: 274
 },
+
+
+
+var skycons = new Skycons({"color": "pink"});
+skycons.play();
+ skycons.set("icon1", Skycons.PARTLY_CLOUDY_NIGHT);
